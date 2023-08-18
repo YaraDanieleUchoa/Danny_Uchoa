@@ -4,4 +4,14 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaraDanieleUchoa&show_icons=true&theme=synthwave)
+<div>
+  <a href="https://github.com/YaraDanieleUchoa/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=YaraDanieleUchoa&show_icons=true&theme=moltack" />
+  </a>
+  <a href="https://github.com/YaraDanieleUchoa/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YaraDanieleUchoa&hide_progress=true&layout=compact&theme=moltack&langs_count=8&card_width=200" />
+  </a>
+</div>
+
+---
+
