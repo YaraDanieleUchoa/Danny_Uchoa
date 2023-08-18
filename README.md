@@ -4,3 +4,4 @@
 
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaraDanieleUchoa&show_icons=true&theme=synthwave)
