@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/YaraDanieleUchoa/github-readme-stats">
     <img height=180 src="https://github-readme-stats.vercel.app/api?username=YaraDanieleUchoa&show_icons=true&theme=vue-dark" />
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=YaraDanieleUchoa&layout=compact&langs_count=8&theme=vue-dark&card_width=320" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=YaraDanielechoa&layout=compact&langs_count=8&theme=vue-dark&card_width=320" />
   </a>
 </div>
 
